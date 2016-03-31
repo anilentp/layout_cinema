@@ -1,0 +1,161 @@
+*{
+	font-family: tahoma;
+	text-decoration: none;
+}
+.grid-container{
+	width: 100%;
+	max-width: 1350px;
+	color: #747474;
+}
+.logo{
+	position: relative;
+	top: 5px;
+	left: 0;
+	display: inline;
+}
+.lupa{
+	float: right;
+}
+.movie{
+	margin-top: 35px;
+	display: inline;
+}
+a:link{
+	color:white;
+}
+a:hover{
+	color: #FD7903;
+	font-size: 18px;
+	text-decoration: underline;
+}
+.buscar{
+	float: right;
+	border: 1px ;
+	margin-top:30px;
+	display: inline;
+}
+.banner{
+	position: relative;
+	left: 0;
+}
+.icono{
+	position: absolute;
+	left: 398px;
+	top: 315px;
+}
+.fa{
+	color: white;
+	font-size: 18px;
+	margin-right: 15px;
+}
+.resenapeli{
+	position: absolute;
+	right: 0;
+	top:0;
+	color: #9A9898;
+	line-height: 1.5
+}
+.resena{
+	margin-top: 30px;
+}
+h5{
+	margin-top: 20px;
+}
+.age{
+	border: 1px solid #43F00E;
+	color: #43F00E;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-right: 20px;
+	padding: 5px;
+	display: inline;
+	text-align: center;
+}
+.watch{
+	border:1px solid #FDC51A;
+	border-radius: 10px;
+	background-color:#FFE21D;
+	display: inline-block; 
+	margin:10px;
+	width: 200px;
+	padding: 10px;
+}
+.book{
+	border:1px solid #F6B609;
+	border-radius: 10px;
+	background-color: #F6B609;
+	display: inline-block;
+	margin:10px;
+	width: 200px;
+	padding: 10px;
+}
+.text{
+	margin-right: 10px;
+}
+.pelis{
+	background-color: #FFE21D;
+	padding: 20px;
+	position: relative;
+	top:-3px;
+}
+.peli{
+	padding: 10px;
+	width: 200px;
+	height: 300px;
+	margin: 10px;
+}
+.video{
+	display: block;
+	height: 400px;
+	position: relative;
+	top:-3px;
+	background-color: black;
+	margin: 0 auto;
+}
+.flyer{
+	display: inline-block;
+	padding: 10px;
+	width: 300px;
+	height: 300px;
+	margin: 15px;
+	position: relative;
+	left: 10px;
+}
+.easy{
+	float: left;
+	color: #E4E1E1;
+	line-height: 2.1;
+	margin: 10px;
+}
+.news{
+	float: right;
+	color: #E4E1E1;
+	margin: 10px;
+}
+hr{
+	margin-top: 20px;
+}
+.title{
+	color: black;
+}
+.buy{
+	border:1px solid #F6B609;
+	border-radius: 10px;
+	background-color: #F19C08;
+	display: inline-block;
+	margin:10px;
+	width: 200px;
+	padding: 30px;
+	font-size: 15px;
+	text-align: center;
+}
+
+footer{
+	background-color: #E4E1E1;
+	color:#9A9999;
+	font-size: 10px;
+	line-height: 1.5;
+}
+.created{
+	margin: 20px 0;
+}
